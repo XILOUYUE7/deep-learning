@@ -1,2 +1,3 @@
 # deep-learning
-deep learning by Lihongyi
+code for deep learning
+
